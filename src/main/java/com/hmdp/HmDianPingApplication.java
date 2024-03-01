@@ -20,7 +20,7 @@ import java.lang.annotation.*;
 public class HmDianPingApplication {
 
     void hh(){
-
+        System.out.println("sdnp666");
     }
     public static void main(String[] args) {
         System.out.println("caonima");
