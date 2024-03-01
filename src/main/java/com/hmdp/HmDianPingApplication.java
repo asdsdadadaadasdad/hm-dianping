@@ -23,9 +23,7 @@ public class HmDianPingApplication {
         System.out.println("caonima");
         System.out.println("sa");
         System.out.println(" ");
-
         SpringApplication.run(HmDianPingApplication.class, args);
-
     }
 
 }
