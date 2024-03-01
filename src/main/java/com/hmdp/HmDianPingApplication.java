@@ -19,6 +19,9 @@ import java.lang.annotation.*;
         @ComponentScan.Filter(type = FilterType.CUSTOM, classes = AutoConfigurationExcludeFilter.class) })
 public class HmDianPingApplication {
 
+    void hh(){
+
+    }
     public static void main(String[] args) {
         System.out.println("caonima");
         System.out.println("sa");
