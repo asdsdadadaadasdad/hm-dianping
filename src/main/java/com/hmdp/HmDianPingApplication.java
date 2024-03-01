@@ -22,7 +22,7 @@ public class HmDianPingApplication {
     public static void main(String[] args) {
         System.out.println("caonima");
         System.out.println("sa");
-        System.out.println(" ");
+        System.out.println("8");
         SpringApplication.run(HmDianPingApplication.class, args);
     }
 
