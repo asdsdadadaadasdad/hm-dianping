@@ -20,6 +20,7 @@ import java.lang.annotation.*;
 public class HmDianPingApplication {
 
     public static void main(String[] args) {
+        System.out.println("caonima");
         System.out.println();
         SpringApplication.run(HmDianPingApplication.class, args);
 
