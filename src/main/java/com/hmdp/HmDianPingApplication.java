@@ -32,6 +32,9 @@ public class HmDianPingApplication {
         System.out.println("ma");
 
     }
+    void jjb(){
+
+    }
     void kkk(){
 
     }
