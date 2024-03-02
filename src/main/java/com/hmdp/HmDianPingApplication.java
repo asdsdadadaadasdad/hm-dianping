@@ -29,10 +29,13 @@ public class HmDianPingApplication {
         System.out.println("8");
         System.out.println("sdsidie");
         SpringApplication.run(HmDianPingApplication.class, args);
-        System.out.println("ma");
+    }
+
+    void kk() {
 
     }
-    void kkk(){
+    void jj(){
+
 
     }
 }
