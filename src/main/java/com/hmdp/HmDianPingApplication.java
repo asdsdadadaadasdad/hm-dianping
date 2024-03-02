@@ -35,6 +35,9 @@ public class HmDianPingApplication {
     void jjb(){
 
     }
+    void nm(){
+
+    }
     void kkk(){
 
     }
