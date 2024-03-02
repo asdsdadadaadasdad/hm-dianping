@@ -30,7 +30,12 @@ public class HmDianPingApplication {
         System.out.println("sdsidie");
         SpringApplication.run(HmDianPingApplication.class, args);
     }
-    void kk(){
+
+    void kk() {
+
+    }
+    void jj(){
+
 
     }
 }
