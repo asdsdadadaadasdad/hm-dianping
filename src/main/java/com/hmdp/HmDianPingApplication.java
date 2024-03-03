@@ -39,7 +39,11 @@ public class HmDianPingApplication {
 
     }
     void kkk(){
+
         System.out.println("2");
+
+        System.out.println();
+
     }
 
     //6666
